@@ -1,0 +1,19 @@
+.success {
+  height: 80vh;
+  width: 70vw;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  background-color: deeppink;
+  font-style: initial;
+  border-radius: 10px;
+  box-shadow: 2px 2px black;
+  cursor: pointer;
+}
+.s {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

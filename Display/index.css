@@ -1,0 +1,21 @@
+.prof {
+  height: 400px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color: cornsilk;
+margin: 20px;
+}
+.each-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.font {
+  font-size: 25px;
+}

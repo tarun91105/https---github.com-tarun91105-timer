@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.each-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.read {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.button {
+  height: 30px;
+  width: 100px;
+  background-color: deeppink;
+  font-style: initial;
+  border-radius: 10px;
+  box-shadow: 2px 2px black;
+  cursor: pointer;
+}
